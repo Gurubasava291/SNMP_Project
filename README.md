@@ -10,7 +10,7 @@ This tool uses the `pysnmp` library to perform an SNMP GET request against a spe
 - `snmp_get.py`: Main executable script containing the GET request logic.
 - `requirements.txt`: Python dependencies.
 - `report.md`: Detailed project report.
-- `screenshots/`: Folder for output screenshots.
+- `screenshots/`: Folder for output screenshots. Place your terminal output screenshots in this directory to include them in your final submission.
 
 ## Installation Steps
 
